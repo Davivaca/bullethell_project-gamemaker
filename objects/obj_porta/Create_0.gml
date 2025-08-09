@@ -1,1 +1,0 @@
-estado = "aberta"; // estado inicial
